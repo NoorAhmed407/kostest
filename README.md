@@ -4,6 +4,30 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
+
+## Cloning the Repository
+
+To clone this repository to your local machine, use the following command:
+
+```bash
+git clone https://github.com//NoorAhmed407/kostest.git
+```
+
+## Installing project dependencies.
+After cloning the repository, navigate to the project directory in your terminal and install the dependencies using npm or yarn.
+
+
+```bash
+cd kostest
+
+# using npm
+npm install
+
+# OR using Yarn
+yarn
+```
+
+
 ## Step 1: Start the Metro Server
 
 First, you will need to start **Metro**, the JavaScript _bundler_ that ships _with_ React Native.
